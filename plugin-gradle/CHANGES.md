@@ -5,6 +5,8 @@ We adhere to the [keepachangelog](https://keepachangelog.com/en/1.0.0/) format (
 ## [Unreleased]
 ### Changed
 * Update ktfmt from 0.21 to 0.24
+### Added
+* Added Gradle configuration [JVM-based JSON formatting](https://github.com/diffplug/spotless/issues/850)
 ### Fixed
 * The `<url>` field in the maven POM is now set correctly ([#798](https://github.com/diffplug/spotless/issues/798))
 
