@@ -15,7 +15,7 @@ pluginManagement {
 		// https://github.com/spotbugs/spotbugs-gradle-plugin/releases
 		id 'com.github.spotbugs'                   version '4.7.0'
 		// https://github.com/diffplug/spotless-changelog
-		id 'com.diffplug.spotless-changelog'       version '2.1.2'
+		id 'com.diffplug.spotless-changelog'       version '2.4.0'
 	}
 }
 plugins {
