@@ -13,7 +13,7 @@ pluginManagement {
 		// https://github.com/mnlipp/jdrupes-mdoclet/releases
 		id 'org.jdrupes.mdoclet'                   version '1.0.10'
 		// https://github.com/spotbugs/spotbugs-gradle-plugin/releases
-		id 'com.github.spotbugs'                   version '4.7.0'
+		id 'com.github.spotbugs'                   version '5.0.5'
 		// https://github.com/diffplug/spotless-changelog
 		id 'com.diffplug.spotless-changelog'       version '2.1.2'
 	}
